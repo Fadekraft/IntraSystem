@@ -1,0 +1,45 @@
+﻿body {
+
+}
+
+#Container0 {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 10%;
+}
+
+#Container1 {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 25%;
+}
+
+#Container2 {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 35%;
+}
+
+#Container3 {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 60%;
+}
+
+#TB_User {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d9d9d9;
+    text-align: center;
+}
+
+#TB_Pass {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d9d9d9;
+    text-align: center;
+}

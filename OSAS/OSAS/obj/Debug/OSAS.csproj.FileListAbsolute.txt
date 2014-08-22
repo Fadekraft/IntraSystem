@@ -1,0 +1,6 @@
+c:\users\phail\documents\visual studio 2013\Projects\OSAS\OSAS\bin\OSAS.dll.config
+c:\users\phail\documents\visual studio 2013\Projects\OSAS\OSAS\bin\OSAS.dll
+c:\users\phail\documents\visual studio 2013\Projects\OSAS\OSAS\bin\OSAS.pdb
+c:\users\phail\documents\visual studio 2013\Projects\OSAS\OSAS\obj\Debug\OSAS.csprojResolveAssemblyReference.cache
+c:\users\phail\documents\visual studio 2013\Projects\OSAS\OSAS\obj\Debug\OSAS.dll
+c:\users\phail\documents\visual studio 2013\Projects\OSAS\OSAS\obj\Debug\OSAS.pdb

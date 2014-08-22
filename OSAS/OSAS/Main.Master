@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="OSAS.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="MasterForm" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <div id="TitleContainer">
+
+            </div>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
